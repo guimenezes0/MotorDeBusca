@@ -14,9 +14,9 @@ O motor de busca tem as seguintes características:
 
 Para instalar e rodar este projeto, você precisa ter o Node.js instalado em seu ambiente local. Aqui estão as etapas:
 
-1. Clone este repositório para o seu ambiente local usando `git clone <URL do repositório>`.
+1. Clone este repositório para o seu ambiente local usando `git clone https://github.com/guimenezes0/MotorDeBusca.git`.
 2. Navegue até o diretório do projeto.
-3. Execute `node Trie.js` para rodar o projeto.
+3. Execute `node trie.js` para rodar o projeto.
 
 ## 🚀 Como Usar 
 
